@@ -90,3 +90,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or questions, please contact me at:
 - **Email:** [divyanshsaini.mzn@gmail.com](mailto:divyanshsaini.mzn@gmail.com)
+
+## Screenshots
+
+![Screenshot 2024-08-19 001051](https://github.com/user-attachments/assets/6e194636-6c75-4c57-b429-5aa5df7bf984)
+![Screenshot 2024-08-19 001104](https://github.com/user-attachments/assets/7d2bc493-7317-4508-9333-fceedef4fff4)
+![Screenshot 2024-08-19 001117](https://github.com/user-attachments/assets/94fe81cb-88fc-4371-8614-2a1ac636fa8c)
+![Screenshot 2024-08-19 001130](https://github.com/user-attachments/assets/61e46ae1-740e-4273-b7c5-8a1498045f33)
+
