@@ -1,6 +1,6 @@
 # Coffee Shop
 
-A web application for managing a coffee shop, built using modern web technologies including TypeScript, HTML, and CSS. This project showcases the implementation of a responsive and interactive coffee shop management system.
+This project is a clone of a coffee shop's website, designed to provide users with an engaging and responsive interface. The application showcases various coffee products, menus, and related information. It focuses on delivering a polished user experience with a modern design.
 
 ## Table of Contents
 
@@ -20,10 +20,9 @@ The Coffee Shop project is designed to help manage a coffee shop's operations ef
 
 ## Features
 
-- Order management (place, update, delete orders)
-- Menu display with categories and prices
-- Customer feedback system
-- Responsive design for various devices
+**Responsive Design:** Optimized for various screen sizes, ensuring a seamless experience on desktops, tablets, and mobile devices.
+**Interactive Menu:** A visually appealing menu that displays various coffee products.
+** User Interface:** Clean and modern UI that mirrors a typical coffee shop website.
 
 ## Installation
 
@@ -75,6 +74,7 @@ coffee-shop/
 ## Technologies Used
 
 - **Frontend:** TypeScript, HTML, CSS, Tailwind CSS
+- **Styling:** CSS Modules, SASS
 - **Build Tool:** Vite
 - **Linting:** ESLint
 
